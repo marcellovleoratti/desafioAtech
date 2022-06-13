@@ -1,0 +1,6 @@
+br\com\dominio\desafioatech\security\WebSecurityConfigAdapter.class
+br\com\dominio\desafioatech\Repository\DesafioRepository.class
+br\com\dominio\desafioatech\Controller\DesafioController.class
+br\com\dominio\desafioatech\Model\DesafioModel.class
+br\com\dominio\desafioatech\DesafioAtechApplication.class
+br\com\dominio\desafioatech\security\AuthorizationServerConfig.class
